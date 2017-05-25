@@ -1,0 +1,21 @@
+<merge
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" >
+
+    <Button
+        android:id="@+id/settingsButton"
+        android:layout_width="89dp"
+        android:layout_height="60dp"
+        android:text="Button" />
+
+    <com.lorentzos.flingswipe.SwipeFlingAdapterView
+        android:id="@+id/frame"
+        android:layout_width="match_parent"
+        android:layout_height="517dp"
+        android:background="#ffeee9e2"
+        app:rotation_degrees="15.5"
+        tools:context=".MainActivity" />
+
+
+</merge>

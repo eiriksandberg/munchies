@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/7a18c26ab2814e8472d7c208f7cb1322a8229158/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32367165772006e5c88fce71041e51393aa2af38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/fb6e5ac4f51666e7338189b1025503c1667c99f0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9c8affe1f564ec0d063be68469d26e972455217">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ab964aa6268d3f5324c201a42ecdf6993b02c96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/602a25971e273e214c6464c1364ed14630319d2c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52e30426589e1af2fd0d0db14564a36f5bf3232d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_2a6af47736e882706a754c95ac89353279e0f95a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/968eb0704723be2b95c73c0242bd1172add6bd04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4eeba61bbc47e49a5fbdfd9aa21af5d10bf4df7c">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d2e694f6fa9c462ac77da4d0053cd107c47aa54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/63206711c2781b5d5c454ac00a4ccff653165473/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c1c44672010b6847f3744ec3702624d8d16c240">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d7f2ce493ce6639b6394c8f78d6c4af9c14ddea2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/89d6dd48e5ea0d67fce2490f34927d9014ab309d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98ac18f891a8279ae57c4771cbf4a2a65f95b04c">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32618b114d2866fdd143ea154e831fcf05a86075/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/0fd2169a7762e14719ca78d0845b5bab526eb6fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="701c58abf53f488bc5bb0162f1305a38a32fb5f1">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f582d059d8843872c17a727c318c20eed9dfe892/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/4f651f26882cb1956bfc9ed72865415c642ca28c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a7a5bffb6f6e6bba2987c6ba2fe3db0690d032d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/50311947a2854592c907b8e1a695bcde9636960a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b50fe5288bba9d1635ba619bd3c308319205543e">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_30efef38847d6ba8bbd3c094fe9aabd0a323191e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/09648db2d9a791f15deba841215441d25ef8c041/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b95f2bf44857a158b097e9f80d5d18d69f32584">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_60b60a95364277a7606d89339cff80a5afd2016f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/8ab06c1c5009c2a4e9cacded9b05bb27669389f9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d72eb1ceff1b0bac4916088eb44bb93f86b1265c">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_62920f5065056defd3f82656c4565813e1f8bfee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/3b24bca6f38ba3729c6e39402a93e5ac1ae8fad7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="657abe17c5ba58f5d24803ba303c6005b180897a">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_680eefed8c810067ed59d22082ca82db3c71aa2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/e8d5a49fa59a055aebaaf41ad6c16c0684ddc178/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db51038e29c38d999d88d7a4bf8366857e70f6d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/543d8d820b02d773228412f0fb0c3681fd332308/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8748e15968514ff1708deb3bb7f0c17623e50bbb">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e800a038a0ed980e4f8c365f7af0263e149c88a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/3bba4e00d9f06940f790fb29ff955dd7a1729298/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93094dbb2af50e23339620bebd7b4b6161410edb">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b073f43e0c288f512fe98a0ed77312a41d80d27d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/4365ee39dc05c28b6e7563f455f568690b4f2945/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa6a6e385297077a344e0bb95ab6c22f22119261">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b42adf6882cdb22434007c8e99c5838129d86e7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/4c1baa0ad25da41117d8b47af187f9b6876381ca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dde643ce80b967f869e9b111255815ba4d391653">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f7c92f8908a1a9f54e930ce2ecb71e892f6359e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/0b99eabbc35f6aaf4c58ea29f429ee51be3645da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="54933c89f90a872aa342004e82b23e776fe12736">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34185e2423fab3de798734c89dd59ee827f6d2a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/8a1f2abc9e556f4b4e9ae15d67b1eb36e92d2432/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c76804333008c855433cad5cfd1256e86045e97b">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1d46ff4553b014f455549bca4fa69d72d0718e96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/48a2be9aae352ec02f2061e175a3b948f03a6929/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="597d0d34e15e713c486e8f4ccf739f0c7d05bde4">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_81912632204fb65a803203d5fad1460fc1c3a127/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/e6d12db1a3434ed5963550e8ea3879a2c9f60126/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e23941db151e67886844de6586e180bb2b860ad">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7c95cfce8a20aea26884477c8e5d9649747d468/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/2936c19cfb6c6dff847a368f321e97be22923dba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c8a4af7cf76d958c76ed7682f39e4b386b69305">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3c22501f3d34ee280e8758d2ce9e89d3f8ce1c4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/ddd453e8c15e60b9d1e73778f2da6e220aba69d3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29e4e634375ab2ed25f8db5387b564c78980422a">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_65c221a1689457ef9ec9706249617e6c1619eb80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/88e5160931536ef38d6854a5f9bf6d25b0339d98/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80ecaefc1035fde747999e4c20e18d207363efa2">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d4cb84e8d4aed6267a246b5e6de8e64a530cc1b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/32d8910cf112d569c50b3ad398c5466e80728e59/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29d9916bd9ad8406a53edbafbbce5e18943aa882">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9495f7d054110eb26ecc39cfb41d4c276fe96508/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/6b84e0c092d534c13446e63a3a0b6752c0ca5519/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f85caf6035a3a527e3db0acfacf9a86ba51fcbcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/f8edb9b2d3ebf4108189ebadbf798abbd5038011/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d66b8668122393a15c90471c5c974c25439d193a">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f7edef1cb600f2a3b2e447f3cef5bea4d9f259d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/194ae640ac6a12bd9cf3b34a6f6885ccb0446ad8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="143e5647b772c08c9f0d807b24bbc0b05ff6c7d2">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ad147496ecc3a44c35075c3a7eaf5e6e6164248c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/2993841f06d9fe2e542f7686a44e7c672fa12e71/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_2e7a88d349343b6b1e847e0d5fe92d1c1e8619d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/80ad009bb4f3998d4552a819e540a83ccca8294b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_819dc9c2562fff73a35fb8c4d44d8cd5c297b019/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/c705cc9de9fdd9af42305a37cb0b6687282b4c4f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="058253c7da6cf5cb545922d07fcc2cd19d5d0ce1">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_afc0ef52e0cd148e360b694059a64d90d94653ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/741fdecdddef38e533127d147adebb89069b6d32/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_38107789386548620bc040d98b93323a21ef1f40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/d613f700126ed3ac339f4e80df9ed2e118538269/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="688809418e4c2b5014a028c02708d6aeaba466ff">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e38bff5b856f7467ccd90465138deb20658c7720/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/3b7b138d1dc40f5c56283cbe1463439b02e82173/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="183e4fb7cf95f4fa54963cfcdaf0f4d7e2397bad">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6081b2bd28e24827a8a362958d6819135e9163f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/9804208e68429f99edec80105cc27f3c79ac5f2a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e5c348081220349acf77d270478b21065cd0a87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/e4a0d0bae87d1c2f3abf422e094be59838d508c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_340defee031499a239ee7b3bdec3820854bd21f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/a3aa16d4f8c206ea30a6d1d8d0a1d15123055503/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b8d1a53648f7ecfe9e7bf0baf9ca657c5a1ff91">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3e3fa478d47025d795635b54d01cc8bc3812f1f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/b19034c24592daa7b3188b37296d2ec3e713018c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ba0d0164dc5ecc65acc10100074282ad0ca59fa8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.1/constraint-layout-solver-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.1_95ae7ff4092bf40292bb4314de266a518d3e02f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/cc37e8313d96deb9c8f2ab1b1b9975915f818dd0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="acc7a846f0bc56ecccda535fc919fd338b2b3e2c">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e61e4ad5b19f7d2444d94facd1dea88597fefcb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/9e9f49ee5f04907923721668664d912a1c6be801/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d2d27edb6fbc12fdf28008cdff920e66f08cf159">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_02b0e270d78834ddc2419a58dad096da5919d500/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/384ab6398eb71ca51e5e28d7a3da62d1e572d2c6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="610ae6a6872d9718fc05e2c726758206bd367595">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_238ebf1370af26cccf91ca7621e34213cd03fa05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/a5eb8c904b1840cd5d04f135329a0f1f0b5b0d2e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="287051610dd01cc6eeaed7fc689712c31ad1ff70">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e69a7b1efc90c182242a7eccef49662f0fa81cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/5.1.2/daf5472b0df6dabaceb6ad755b3812535863965a/butterknife-5.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="daf5472b0df6dabaceb6ad755b3812535863965a">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-5.1.2_8072aa55c5d6616da57d92327d0b204705b7e0b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/cd4659de4f5f39dcd75e18cceea2fbaa2fe21b87/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f4adee9e2165279ceb10e8689a7cf4802df0ec7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/6a823892e5502ab7c356388ca865f1504c623ce2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88ae4c6ceaeab7beca5e396e0698c6958e26a2d2">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f524701ee3504c509d40be81bab35c4199bd27b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/9a90d10bc12fa524cf3d56f5f652663ac272d90f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_88d24856fa78e1d9263b610c5775fcad8627ccff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/63d6455f097d76616a95bd43e5cccd6d341b147e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2188ba20a948ec6e7fa671b818c69d876d8bf32d">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_01143baea022493751fbee7c545a4092e1e0ab80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/2993841f06d9fe2e542f7686a44e7c672fa12e71/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b2b33833b7f7d997d5aa145027802d8fd468bed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/13b36f0803af04b8017a9a35b2206204aa035d47/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d3a7d10844f507006026949b6b3152a37c212a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/e78e99b2bd81583b0bc617a1be5174e9060ac368/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_53f4e41dd0c0d9d3219f37f5c3c503b52de5f7e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/678174f76d06358accc4087fe1a140c167239618/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90236fba9ac4dfb1f4196e231aab964522143ef6">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a212916830c0683242a63c60f246b9d6b6f6fa6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/693088db226342915e2c8ddacde061f5a3a95bec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a75030f7a3f5f96a15acdab44829bed93154d09f">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0936beb444eb4cc1e825e420e06fd6d04605c98f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/324f6a747f28a0562940bb702b2f1cd68c50d5fe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43df709c95f6b0501b3adbc7da992b6a69a03214">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_81776dcefa46829f2203ba3833618711b0f8e679/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/0acdfb51a2b8b5389d2294ad6c4c1c2a250f7fe3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e0f082141b7aa90aab5d3a47ab09b0edc958f6b">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_544ac653277a573fc8435a5ef14cdc5ce4828105/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/db18492f8a2fac19ceb5bf495e46603663eb4265/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b8ad09b76c4ffaedf443ca54bc2418760870689">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a2a00e4f086403fb69a80e0729a4b29a4a616bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/c31d2432d3585c9fe2c9968cd35062d679c57aa2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c01990d0a9bbc67f4c2b9610c1170046c2e37b3e">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_363eacb78fa298b30d9a203d65c28feefdf02761/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/99d50ddc8e79b4122f44fe96cdf3f5a7fb8e3da4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_809830d8ea0b37a0e64c24491d16c8f8ea0b9cbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/f2fdb8fd1d4c4226b8e04f3f63d807c08a04533c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_13e2d23f83f98372d2541582b35600178f8d3974/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/98115c98886cfbc961e8d931628a7c0788ed92a0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fdf15d202000492aefe43092b21af5332df0178">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_040ec0f6c5ffa1a88a01c98a9f78144a372bdaac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/7fff1c98ea39877bf5e1231deec22bfebcfca161/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="32aa1b2a2f68f455403d10d41d8ded37c9812f11">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6346021b4ebc2c9b42e193dbc114de20c6c42293/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/7d937039b8f9fab882b99c43a16ec19165205303/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2ed7ba48801a0a361727833ade3b6cf096968cc0">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f4935eea7e9d407a55517b8fa4ac3a457cd88679/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/1b0877c258c054634831ce2c898c780762e2b726/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fe159787dd4c4bc9ed6a9d4f7430e9af1f3516c8">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8fc7c2c624165c8d723503303a1465a699a74f9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/664d331edd395a60a5210091f59c68c2f84f7ed4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02e70fe04e0767ccfa16745b3398816d1171f0ad">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6554012dfd185b35ba0a4e139a8b6bffcfbca43e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/1bd35d9566aaa75f5e9a8462e82d0241a6a379af/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5448a69da935ad4e5a298423099c83818253d8d6">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e945bbdeaaa736cd68d57543f0f1ce708e7e3ad3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/633e1664f0c4d119aa39428ce28b9c8f21c77f9d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e66814212e2e048ba181768510886d166a2673a">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32ed4ef8f4cebd72a4d7901e3ace3ef5fbb1e7d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/3ab791be558bfb07354b7f7c0ee7cf0352dcb76f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d1b57d97f7d96e6dda07b8538d9cd894f08cbfdc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/0a6d8bbfa2de52939db63c07e40b4580f473c135/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cba8868595f6aaff54cf7d1798591108cf5611c">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_508f979af5f03757704bc8bff4f4e45c63551993/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/baab050948db99931e8c522b865c36ae46741fae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9860eaee64e125a2d0af4f09d95d463cb93e41d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/ac0ab6319eb38158d48410d9a63b83209373e774/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b2b4d3ecd541814f08200f8171def113095d5f39">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3e628c6d10d71e63a9e298afe43f6839cd92df3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eiriksandberg/.android/build-cache/3ff617b5140ae7e5db47f1748ef4daa5754895fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d5ae39b0de30b0f73c815513024feff3542f36e">
+        <dex dex="/Users/eiriksandberg/Downloads/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e9411cb275f104df9308e00c86d00f35bf48b31/classes.dex" />
+    </item>
+
+</items>

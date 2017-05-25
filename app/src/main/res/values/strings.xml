@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Munchies</string>
+    <string name="radius">Maximum distance</string>
+    <string name="cuisine">Type of food</string>
+</resources>
